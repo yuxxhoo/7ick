@@ -1,4 +1,4 @@
-"@A graduate student aiming to apply for a PhD"
+"@author: "A graduate student aiming to apply for a PhD"
 import pandas as pd
 from sklearn.linear_model import Lasso
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
